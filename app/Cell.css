@@ -1,0 +1,19 @@
+.boardcell {
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+	background-color: #dfddce;
+	height: 30px;
+	width: 30px;
+	text-align: center;
+	line-height: 1.7em;
+}
+
+.clearcell {
+	clear: both;
+}
+
+.markedcell {
+	background-color: #6b7171;
+	color: red;
+}

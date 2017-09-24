@@ -1,0 +1,34 @@
+.board {
+	position: fixed;
+	top: 12%;
+	left: 30%;
+}
+
+.startbutton {
+	position: fixed;
+	top: 5%;
+	left: 41%;
+	border-radius: 10px;
+	width: 80px;
+	height: 30px;
+	background-color: brown;
+	font-size: 16px;
+}
+
+.levels {
+	position: fixed;
+	top: 50%;
+}
+
+.levelsheading {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.levelschild {
+	margin-top: 10px;
+}
+
+.levelsfield {
+	margin-top: 10px;
+}
